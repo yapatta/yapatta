@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**yuziroppe/yuziroppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yapatta/yapatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/yuziroppe">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=yuziroppe&count_private=true&show_icons=true" />
+<a href="https://github.com/yapatta">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=yapatta&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/yuziroppe">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuziroppe&count_private=true&show_icons=true&layout=compact" />
+<a href="https://github.com/yapatta">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapatta&count_private=true&show_icons=true&layout=compact" />
 </a>
